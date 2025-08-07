@@ -2,8 +2,6 @@ I'm software engineer with 10+ years of experience in Software Development in di
 My experience mainly comes working on back-end services in distributed systems. 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/dalibor91/)
-- 🐦 [Twitter](https://twitter.com/dalib91)
-- 📄 [Medium](https://medium.com/@dalibor91)
 - 🔗 [Website](https://dalibor.me)
 
 <!---
